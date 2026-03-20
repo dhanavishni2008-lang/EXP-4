@@ -38,9 +38,16 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 <img width="1032" height="689" alt="image" src="https://github.com/user-attachments/assets/7ccd55c6-751e-4798-80f0-881457ea25bb" />
+<img width="872" height="644" alt="Screenshot 2026-03-19 161835" src="https://github.com/user-attachments/assets/9b2e9807-8d9e-4f79-9080-5373c1bf470b" />
+<img width="910" height="620" alt="Screenshot 2026-03-19 162748" src="https://github.com/user-attachments/assets/c951b220-5645-4e07-a8e8-162aa0f3ee52" />
 
 Bridge rectifier with filter:
 <img width="1280" height="1037" alt="image" src="https://github.com/user-attachments/assets/b53343b2-691a-42e3-8819-5cb43376463e" />
+![WhatsApp Image 2026-03-20 at 11 07 14 AM](https://github.com/user-attachments/assets/dfa178a5-ff5d-4960-8838-6358e9b7198c)
+![WhatsApp Image 2026-03-20 at 11 12 04 AM](https://github.com/user-attachments/assets/26f29dc2-758f-4ffd-b9a7-663694f9894b)
+
+
+
 
 
 TABULAR COLUMN:Half wave rectifier
@@ -52,8 +59,16 @@ TABULAR COLUMN:Bridge rectifier
 WAVEFORM:
 Half wave
 <img width="1097" height="391" alt="image" src="https://github.com/user-attachments/assets/ccf4b9c1-7724-4ccf-afd8-db21d7e4f195" />
+<img width="1222" height="787" alt="Screenshot 2026-03-19 161825" src="https://github.com/user-attachments/assets/becfdbe1-674b-48a7-bd10-cac688ac30bc" />
+<img width="1228" height="745" alt="Screenshot 2026-03-19 163415" src="https://github.com/user-attachments/assets/3d33ad91-2d5e-4fe2-a66a-84f2f98408d7" />
+
+
 Bridge wave
 <img width="1107" height="375" alt="image" src="https://github.com/user-attachments/assets/c3323dab-6073-4864-be01-12c83a8607bf" />
+<img width="1266" height="709" alt="Screenshot 2026-03-19 162713" src="https://github.com/user-attachments/assets/2a598161-85e5-45c3-a847-47145dae726c" />
+![WhatsApp Image 2026-03-20 at 11 07 14 AM (1)](https://github.com/user-attachments/assets/cb69e519-8baa-41e8-a83b-33925c03e282)
+
+
 
 RESULT:
 
